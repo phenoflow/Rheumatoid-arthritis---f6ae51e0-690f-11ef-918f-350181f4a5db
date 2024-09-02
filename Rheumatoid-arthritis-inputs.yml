@@ -1,0 +1,153 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/rheumatoid-arthritis-factor---secondary.py
+inputModule3:
+  class: File
+  path: python/other-rheumatoid-arthritis---secondary.py
+inputModule4:
+  class: File
+  path: python/rheumatoid-arthritis-specified---secondary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-arthritis-system---secondary.py
+inputModule6:
+  class: File
+  path: python/pauciarticular-rheumatoid-arthritis---secondary.py
+inputModule7:
+  class: File
+  path: python/juvenile-rheumatoid-arthritis---secondary.py
+inputModule8:
+  class: File
+  path: python/rheumatoid-arthritis-felty---secondary.py
+inputModule9:
+  class: File
+  path: python/monarticular-rheumatoid-arthritis---secondary.py
+inputModule10:
+  class: File
+  path: python/arthropathy-rheumatoid-arthritis---secondary.py
+inputModule11:
+  class: File
+  path: python/rheumatoid-arthritis---secondary.py
+inputModule12:
+  class: File
+  path: python/arthritis---secondary.py
+inputModule13:
+  class: File
+  path: python/chronic-rheumatoid-arthritis---secondary.py
+inputModule14:
+  class: File
+  path: python/acute-rheumatoid-arthritis---secondary.py
+inputModule15:
+  class: File
+  path: python/seropositive-rheumatoid-arthritis---secondary.py
+inputModule16:
+  class: File
+  path: python/early-rheumatoid-arthritis---secondary.py
+inputModule17:
+  class: File
+  path: python/polyarticular-rheumatoid-arthritis---secondary.py
+inputModule18:
+  class: File
+  path: python/seronegative-rheumatoid-arthritis---secondary.py
+inputModule19:
+  class: File
+  path: python/rheumatoid-arthritis-onset---secondary.py
+inputModule20:
+  class: File
+  path: python/rheumatoid-arthritis-carditis---secondary.py
+inputModule21:
+  class: File
+  path: python/rheumatoid-arthritis-shoulder---secondary.py
+inputModule22:
+  class: File
+  path: python/rheumatoid-arthritis-fingerpulp---secondary.py
+inputModule23:
+  class: File
+  path: python/rheumatoid-arthritis-first---secondary.py
+inputModule24:
+  class: File
+  path: python/interphalangeal-rheumatoid-arthritis---secondary.py
+inputModule25:
+  class: File
+  path: python/rheumatoid-arthritis-flare---secondary.py
+inputModule26:
+  class: File
+  path: python/rheumatoid-arthritis-radioulnar---secondary.py
+inputModule27:
+  class: File
+  path: python/tibiofibular-rheumatoid-arthritis---secondary.py
+inputModule28:
+  class: File
+  path: python/rheumatoid-arthritis-joint---secondary.py
+inputModule29:
+  class: File
+  path: python/sternoclavicular-rheumatoid-arthritis---secondary.py
+inputModule30:
+  class: File
+  path: python/acromioclavicular-rheumatoid-arthritis---secondary.py
+inputModule31:
+  class: File
+  path: python/talonavicular-rheumatoid-arthritis---secondary.py
+inputModule32:
+  class: File
+  path: python/rheumatoid-arthritis-lesser---secondary.py
+inputModule33:
+  class: File
+  path: python/rheumatoid-arthritis-spine---secondary.py
+inputModule34:
+  class: File
+  path: python/rheumatoid-arthritis-elbow---secondary.py
+inputModule35:
+  class: File
+  path: python/rheumatoid-arthritis-wrist---secondary.py
+inputModule36:
+  class: File
+  path: python/metacarpophalangeal-rheumatoid-arthritis---secondary.py
+inputModule37:
+  class: File
+  path: python/rheumatoid-arthritis-sacroiliac---secondary.py
+inputModule38:
+  class: File
+  path: python/rheumatoid-arthritis-ankle---secondary.py
+inputModule39:
+  class: File
+  path: python/subtalar-rheumatoid-arthritis---secondary.py
+inputModule40:
+  class: File
+  path: python/multiple-rheumatoid-arthritis---secondary.py
+inputModule41:
+  class: File
+  path: python/errosive-rheumatoid-arthritis---secondary.py
+inputModule42:
+  class: File
+  path: python/rheumatoid-arthritis-pneumoconiosis---secondary.py
+inputModule43:
+  class: File
+  path: python/temporomandibular-rheumatoid-arthritis---secondary.py
+inputModule44:
+  class: File
+  path: python/rheumatoid-arthritis-process---secondary.py
+inputModule45:
+  class: File
+  path: python/rheumatoid-arthritis-arteritis---secondary.py
+inputModule46:
+  class: File
+  path: python/rheumatoid-arthritis-vasculitis---secondary.py
+inputModule47:
+  class: File
+  path: python/rheumatoid-arthritis-infarct---secondary.py
+inputModule48:
+  class: File
+  path: python/rheumatoid-arthritis-uveitisarthritis---secondary.py
+inputModule49:
+  class: File
+  path: python/rheumatoid-arthritis-nailfold---secondary.py
+inputModule50:
+  class: File
+  path: python/rheumatoid-arthritis-necrotizing---secondary.py
+inputModule51:
+  class: File
+  path: python/output-cases.py
